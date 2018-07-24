@@ -1,4 +1,4 @@
-# javascript-pig-dice-game
-Pig Dice Game - Udemy JavaScript Course: DOM Manipulation and Events
+# javascript-budget-calculator
+Budget Calculator - Udemy JavaScript Course: Budget App Project
 
-The pig dice game was built alongside Jonas Schmedtmann's JavaScript course on Udemy, in the DOM Manipulation and Events section.
+The budget calculator was built alongside Jonas Schmedtmann's JavaScript course on Udemy, in the Budget App Project section.
